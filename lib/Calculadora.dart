@@ -10,7 +10,7 @@ class CalculadoraState extends State<Calculadora> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Calculadora 1.0"),
+        title: Text("Calculadora 2.0"),
       ),
 
       body: Container(
